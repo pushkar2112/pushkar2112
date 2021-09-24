@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--[pimage](https://github.com/pushkar2112/pushkar2112/blob/main/pngwing.com.png)-->
-### I am a student, currently learning Data Structures, Algorithm, Pyhton and other interesting stuff.
+### I am a **Student**, currently learning Data Structures, Algorithm, Pyhton and other interesting stuff.
 
 <br/>
 <img align="right" alt="Pimage" width="500px" src="https://github.com/pushkar2112/pushkar2112/blob/main/pngwing.com.png" />
@@ -47,7 +47,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+<br/>
 <!--
 **pushkar2112/pushkar2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
