@@ -6,12 +6,15 @@
 <br/>
 <img align="right" alt="Pimage" width="500px" src="https://github.com/pushkar2112/pushkar2112/blob/main/pngwing.com.png" />
 
-
 - 🔭 I’m currently working on something cool😎
 - 🌱 I’m currently learning Python/C/DSA
 - 💬 Ask me about Python
 - 📫 How to reach me: [@pushkar](https://github.com/pushkar2112)
 - ⚡ Fun fact: Space is completely silent :milky_way:
+
+
+<br/>
+<br/>
 
 <!-- Github Stats Card  (&custom_title=GitHub%20Stats)-->
 ## Github Stats
