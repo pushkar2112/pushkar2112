@@ -1,6 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
+<!--[pimage](https://github.com/pushkar2112/pushkar2112/blob/main/pngwing.com.png)-->
 ### I am a student, currently learning Data Structures, Algorithm, Pyhton and other interesting stuff.
+
+<br/>
+<img align="right" alt="Pimage" width="500px" src="https://github.com/pushkar2112/pushkar2112/blob/main/pngwing.com.png" />
+
 
 - 🔭 I’m currently working on something cool😎
 - 🌱 I’m currently learning Python/C/DSA
