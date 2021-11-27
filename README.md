@@ -33,14 +33,14 @@
 <!-- Connect with me Card -->
 ## Connect with Me
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/pushkar-verma)
-[<img align="left" alt="Twitter" width="80" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fhelp.twitter.com%2Fcontent%2Fdam%2Fhelp-twitter%2Fbrand%2Flogo.png&imgrefurl=https%3A%2F%2Fhelp.twitter.com%2Fen%2Frules-and-policies%2Ftwitter-rules&tbnid=hmDQk9fGbbztiM&vet=12ahUKEwja3suTgLn0AhW-sUsFHa-_CpkQMygBegUIARDLAQ..i&docid=XnxJ-27tXgQmbM&w=400&h=400&itg=1&q=twitter&ved=2ahUKEwja3suTgLn0AhW-sUsFHa-_CpkQMygBegUIARDLAQ" />]( http://www.PushkarVerma21)
+[<img align="left" alt="Twitter" width="80" src="https://github.com/pushkar2112/pushkar2112/blob/main/twitter.ico" />]( http://www.PushkarVerma21)
 
 <!--[<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://melaniesoek0120.medium.com)
 [<img align="left" alt="1000hires" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/1000hires.ico" />](https://1000hires.com/candidates/466)
 <br />
 <br />
 -->
-
+<br />
 
 <!--Languages and Tools-->
 # 
