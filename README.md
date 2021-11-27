@@ -33,7 +33,7 @@
 <!-- Connect with me Card -->
 ## Connect with Me
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/pushkar-verma)
-[<img align="left" alt="Twitter" width="80" src="https://github.com/pushkar2112/pushkar2112/blob/main/twitter.ico" />]( http://www.PushkarVerma21)
+[<img align="left" alt="Twitter" width="80" height="30" src="https://github.com/pushkar2112/pushkar2112/blob/main/twitter.ico" />]( http://www.PushkarVerma21)
 
 <!--[<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://melaniesoek0120.medium.com)
 [<img align="left" alt="1000hires" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/1000hires.ico" />](https://1000hires.com/candidates/466)
