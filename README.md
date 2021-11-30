@@ -1,15 +1,15 @@
 ## Hi there 👋
 
 <!--[pimage](https://github.com/pushkar2112/pushkar2112/blob/main/pngwing.com.png)-->
-### I am a **Student**, currently learning Data Structures, Algorithm, Pyhton and other interesting stuff.
+### I am a **Student**, currently learning Web Development, DSA, C and other interesting stuff.
 
 <br/>
 <img align="right" alt="Pimage" width="490px" src="https://github.com/pushkar2112/pushkar2112/blob/main/pngwing.com.png" />
 
 - 🔭 I’m currently working on something cool😎
-- 🌱 I’m currently learning Python/C/DSA
-- 💬 Ask me about Python
-- 📫 How to reach me: [@pushkar](https://github.com/pushkar2112)
+- 🌱 I’m currently learning C|Web Development|DSA
+- 💬 Ask me about Python|SQL
+- 📫 How to reach me: [@pushkar](pushkarvermaofficial@gmail.com)
 - ⚡ Fun fact: Space is completely silent :milky_way:
 
 
