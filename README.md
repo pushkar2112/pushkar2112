@@ -1,60 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Pushkar Verma</h1>
+<h3 align="center">A Computer Science student and Software Developer</h3>
 
-<!--[pimage](https://github.com/pushkar2112/pushkar2112/blob/main/pngwing.com.png)-->
-### I am a **Student**, currently learning Web Development, DSA, C and other interesting stuff.
+<img scr="https://github.com/pushkar2112/pushkar2112/edit/main/README.md" alt="pushkar2112" />
 
-<br/>
-<img align="right" alt="Pimage" width="490px" src="https://github.com/pushkar2112/pushkar2112/blob/main/pngwing.com.png" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pushkar2112&label=Profile%20views&color=0e75b6&style=flat" alt="pushkar2112" /> </p>
 
-- 🔭 I’m currently working on something cool😎
-- 🌱 I’m currently learning C|Web Development|DSA
-- 💬 Ask me about Python|SQL
-- 📫 How to reach me: [@pushkar](pushkarvermaofficial@gmail.com)
-- ⚡ Fun fact: Space is completely silent :milky_way:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushkar2112" alt="pushkar2112" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/pushkarverma21" target="blank"><img src="https://img.shields.io/twitter/follow/pushkarverma21?logo=twitter&style=for-the-badge" alt="pushkarverma21" /></a> </p>
 
-<br/>
-<br/>
+- 🔭 I’m currently working on [Web App using Flask](https://github.com/pushkar2112/Web-app-using-Flask)
 
-<!-- Github Stats Card  (&custom_title=GitHub%20Stats)-->
-## Github Stats
-[![Pushkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=pushkar2112&show_icons=true&theme=dracula&count_private=true&hide=issues)](https://github.com/pushkar2112/github-readme-stats)
+- 🌱 I’m currently learning **C | Web Development | DSA**
 
-<!-- Wakatime Card -->
-<!--
-[![Pushkar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pushkar2112&theme=dracula)](https://github.com/pushkar2112/github-readme-stats)
--->
+- 📝 I regularly write articles on [medium.com/@pushkar7397](medium.com/@pushkar7397)
 
+- 💬 Ask me about **Python**
 
-<!-- Top Languages Card -->
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkar2112&layout=compact)](https://github.com/pushkar2112/github-readme-stats)
+- 📫 How to reach me **pushkarvermaofficial@gmail.com**
 
-<!-- Connect with me Card -->
-## Connect with Me
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/pushkar-verma)
-[<img align="left" alt="Twitter" width="80" height="30" src="https://github.com/pushkar2112/pushkar2112/blob/main/twitter.ico" />]( http://www.PushkarVerma21)
+- ⚡ Fun fact **Space is completely silent🌌**
 
-<!--[<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://melaniesoek0120.medium.com)
-[<img align="left" alt="1000hires" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/1000hires.ico" />](https://1000hires.com/candidates/466)
-<br />
-<br />
--->
-<br />
-
-<!--Languages and Tools-->
-# 
-### Languages and Tools
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushkar2112&show_icons=true&locale=en&layout=compact" alt="pushkar2112" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushkar2112&show_icons=true&locale=en&theme=dracula&count_private=true" alt="pushkar2112" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pushkar2112&" alt="pushkar2112" /></p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/pushkarverma21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pushkarverma21" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pushkar-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushkar-verma" height="30" width="40" /></a>
+<a href="https://medium.com/@pushkar7397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pushkar7397" height="30" width="40" /></a>
+</p>
+
 <!--
 **pushkar2112/pushkar2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
