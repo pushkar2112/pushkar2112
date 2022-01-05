@@ -22,6 +22,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A Jump into The Expanse](https://medium.com/@pushkar7397/a-jump-into-the-expanse-2e68f51f2672?source=rss-830e5f141214------2)
 <!-- BLOG-POST-LIST:END -->
 
 
