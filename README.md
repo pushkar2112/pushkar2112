@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pushkar Verma</h1>
 <h3 align="center">A Computer Science student and Software Developer</h3>
 
-<img scr="https://github.com/pushkar2112/pushkar2112/edit/main/README.md" alt="pushkar2112" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushkar2112&label=Profile%20views&color=0e75b6&style=flat" alt="pushkar2112" /> </p>
 
