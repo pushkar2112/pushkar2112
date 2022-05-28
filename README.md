@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **pushkarvermaofficial@gmail.com**
+- 📫 How to reach me **contact@pushkarverma.dev**
 
 - ⚡ Fun fact **Space is completely silent🌌**
 
